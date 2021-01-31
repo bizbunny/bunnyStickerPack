@@ -1,0 +1,53 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
+  "stickers" : [
+    {
+      "filename" : "bunnyGif1.sticker"
+    },
+    {
+      "filename" : "bunnyGif2.sticker"
+    },
+    {
+      "filename" : "bunnyGif3.sticker"
+    },
+    {
+      "filename" : "bunnyGif4.sticker"
+    },
+    {
+      "filename" : "bunnyGif5.sticker"
+    },
+    {
+      "filename" : "bunnyGif6.sticker"
+    },
+    {
+      "filename" : "bunnyGif7.sticker"
+    },
+    {
+      "filename" : "bunnyGif8.sticker"
+    },
+    {
+      "filename" : "bunnyGif9.sticker"
+    },
+    {
+      "filename" : "bunnyGif10.sticker"
+    },
+    {
+      "filename" : "bunnyGif11.sticker"
+    },
+    {
+      "filename" : "bunnyGif12.sticker"
+    },
+    {
+      "filename" : "bunnyGif13.sticker"
+    },
+    {
+      "filename" : "bunnyGif14.sticker"
+    }
+  ]
+}
